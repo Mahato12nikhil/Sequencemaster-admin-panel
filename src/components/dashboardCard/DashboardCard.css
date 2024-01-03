@@ -1,0 +1,34 @@
+/* DashboardCard.css */
+.dashboard-card {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 10px;
+    height: 160px; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    cursor: pointer; 
+    transition: background-color 0.3s ease;
+  }
+.card-main{
+    background-color: #2ecc71;
+}
+.card-transfer{
+    background-color: #df9d39;
+}
+.card-feedback{
+    background-color: #9e80f0;
+}
+
+.dashboard-card:active {
+    background-color: rgba(0, 0, 0, 0.1); 
+  }
+  @media (min-width: 768px) {
+    .dashboard-card {
+      width: calc(33.3333% - 20px);
+      margin: 10px;
+    }
+  }
+  

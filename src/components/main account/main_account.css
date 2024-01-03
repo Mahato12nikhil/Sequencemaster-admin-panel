@@ -1,0 +1,5 @@
+.main_account_dashboard_card {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }

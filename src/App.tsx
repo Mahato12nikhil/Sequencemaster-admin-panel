@@ -1,26 +1,27 @@
+// App.tsx
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-
-function App() {
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import Home from './components/home/Home';
+import Navigation from './components/Navigation';
+import './components/home/home.css'
+import MainAcoount from './components/main account/MainAcoount';
+import EarnAccount from './components/earning account/EarnAccount';
+import TrasnsferEarn from './components/transfer earning/TrasnsferEarn';
+import { Custom_Routes } from './definitions/Routes';
+const App: React.FC = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <div>
+      <h1 className='home-header'>Sequence Master admin panel</h1>
+        <Routes>
+           <Route path="/" element={<Home/>} />
+           <Route path={`${Custom_Routes.main_account}`} element ={<MainAcoount/>}/>
+           <Route path={`${Custom_Routes.earning_account}`} element ={<EarnAccount/>}/>
+           <Route path={`${Custom_Routes.transfer_earning}`} element ={<TrasnsferEarn/>}/>
+        </Routes>
+      </div>
+    </Router>
   );
-}
+};
 
 export default App;

@@ -1,0 +1,22 @@
+.dashboard {
+    display: flex;
+    flex-wrap: row;
+  }
+
+.home-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  @media (min-width: 768px) {
+    .home-header {
+      margin-bottom: 20px; /* Add margin-bottom for spacing */
+    }
+    
+    .dashboard {
+      width: 100%;
+    }
+  }
