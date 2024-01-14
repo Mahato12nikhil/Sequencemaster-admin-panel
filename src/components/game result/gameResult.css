@@ -1,0 +1,49 @@
+.game_result_container{
+  height: 100%;
+  width: 100%;
+}
+.view_breakup_table_alignment{
+  display: flex;
+  width:100%;
+  flex-direction: row;
+}
+.view_breakup{
+  width:30%;
+  border-right: 10px solid #ebebeb;
+  
+}
+.table_container {
+  display: flex;
+  flex-direction: column;
+  width:100%
+}
+
+.filter_container{
+  height:7vh;
+  border-bottom: 10px solid #ebebeb;
+}
+.filter_button {
+  display: flex;
+  align-items: center;
+  border: none;
+  padding:5px;
+  font-size: medium;
+  font-weight:500;
+  width: 100px;
+  border-radius: 7px;
+  margin-left: 10vh;
+}
+
+.filter_button span {
+  margin-left: 10px; 
+}
+.filter_button:hover .dropdown_layout{
+  background: #a9a5a5;
+  display: block;
+}
+@media (max-width: 600px) {
+  .table_head,
+  .table_container tbody td {
+    width: 100%;
+  }
+}

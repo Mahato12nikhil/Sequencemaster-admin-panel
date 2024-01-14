@@ -2,12 +2,10 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Home from './components/home/Home';
-import Navigation from './components/Navigation';
 import './components/home/home.css'
 import MainAcoount from './components/main account/MainAcoount';
-import EarnAccount from './components/earning account/EarnAccount';
-import TrasnsferEarn from './components/transfer earning/TrasnsferEarn';
 import { Custom_Routes } from './definitions/Routes';
+import GameResult from './components/game result/GameResult';
 const App: React.FC = () => {
   return (
     <Router>
@@ -16,8 +14,7 @@ const App: React.FC = () => {
         <Routes>
            <Route path="/" element={<Home/>} />
            <Route path={`${Custom_Routes.main_account}`} element ={<MainAcoount/>}/>
-           <Route path={`${Custom_Routes.earning_account}`} element ={<EarnAccount/>}/>
-           <Route path={`${Custom_Routes.transfer_earning}`} element ={<TrasnsferEarn/>}/>
+           <Route path={`${Custom_Routes.game_results}`} element ={<GameResult/>}/>
         </Routes>
       </div>
     </Router>

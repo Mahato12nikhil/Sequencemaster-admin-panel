@@ -1,6 +1,10 @@
+.home_container{
+    height: 100%;
+}
 .dashboard {
     display: flex;
-    flex-wrap: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
   }
 
 .home-header {

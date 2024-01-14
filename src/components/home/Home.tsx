@@ -12,17 +12,12 @@ export default function Home() {
     navigate(`/${destination}`);
   };
   return (
-   <div>
+   <div >
    
      <div className="dashboard">
-       <DashboardCard name="Main account" amount={`₹ ${50000}`} onClick={() => handleCardClick(Custom_Routes.main_account)} cardType='card-main'/>
+       <DashboardCard amount="Game results" onClick={() => handleCardClick(Custom_Routes.game_results)} cardType='card-main'/>
        <DashboardCard name="Earning account" amount={`₹ ${50000}`}  onClick={() => handleCardClick(Custom_Routes.earning_account)} cardType='card-transfer'/>
-       <DashboardCard name="Trasnfer earning"amount={`₹ ${50000}`} onClick={() => handleCardClick(Custom_Routes.transfer_earning)} cardType='card-feedback'/>
-    </div>
-    <div className="dashboard">
-       <DashboardCard  amount="User details" onClick={handleCardClick} cardType='card-main'/>
-       <DashboardCard  amount="Feedback"  onClick={handleCardClick} cardType='card-transfer'/>
-       <DashboardCard  amount="Misc" onClick={handleCardClick} cardType='card-feedback'/>
+
     </div>
    </div>
 

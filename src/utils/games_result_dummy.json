@@ -1,0 +1,1475 @@
+{
+    "success": true,
+    "data": [
+      {
+        "roundId": 1704030636,
+        "questionId": 839,
+        "questionText": "280,1120,2520,?",
+        "activePlayers": 1,
+        "timestamp": 1704058886002,
+        "answersCount": 1,
+        "correctCount": 0,
+        "inCorrectCount": 1,
+        "profit": 100,
+        "totalWinByPlayer": 0,
+        "amountWiseBreakup": [
+          {
+            "amount": 2,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 5,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 10,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 20,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 30,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 50,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 100,
+            "correct": 0,
+            "incorrect": 1
+          }
+        ]
+      },
+      {
+        "roundId": 1704030635,
+        "questionId": 2835,
+        "questionText": "945,3780,8505,?",
+        "activePlayers": 1,
+        "timestamp": 1704058865988,
+        "answersCount": 1,
+        "correctCount": 1,
+        "inCorrectCount": 0,
+        "profit": -100,
+        "totalWinByPlayer": 100,
+        "amountWiseBreakup": [
+          {
+            "amount": 2,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 5,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 10,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 20,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 30,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 50,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 100,
+            "correct": 1,
+            "incorrect": 0
+          }
+        ]
+      },
+      {
+        "roundId": 1704030453,
+        "questionId": 1452,
+        "questionText": "484,1936,4356,?",
+        "activePlayers": 1,
+        "timestamp": 1704055225204,
+        "answersCount": 0,
+        "correctCount": 0,
+        "inCorrectCount": 0,
+        "profit": 0,
+        "totalWinByPlayer": 0,
+        "amountWiseBreakup": [
+          {
+            "amount": 2,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 5,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 10,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 20,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 30,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 50,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 100,
+            "correct": 0,
+            "incorrect": 0
+          }
+        ]
+      },
+      {
+        "roundId": 1704030452,
+        "questionId": 1256,
+        "questionText": "419,1676,3771,?",
+        "activePlayers": 1,
+        "timestamp": 1704055205199,
+        "answersCount": 1,
+        "correctCount": 0,
+        "inCorrectCount": 1,
+        "profit": 50,
+        "totalWinByPlayer": 0,
+        "amountWiseBreakup": [
+          {
+            "amount": 2,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 5,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 10,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 20,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 30,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 50,
+            "correct": 0,
+            "incorrect": 1
+          },
+          {
+            "amount": 100,
+            "correct": 0,
+            "incorrect": 0
+          }
+        ]
+      },
+      {
+        "roundId": 1704030451,
+        "questionId": 819,
+        "questionText": "273,1092,2457,?",
+        "activePlayers": 1,
+        "timestamp": 1704055185197,
+        "answersCount": 1,
+        "correctCount": 0,
+        "inCorrectCount": 1,
+        "profit": 50,
+        "totalWinByPlayer": 0,
+        "amountWiseBreakup": [
+          {
+            "amount": 2,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 5,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 10,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 20,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 30,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 50,
+            "correct": 0,
+            "incorrect": 1
+          },
+          {
+            "amount": 100,
+            "correct": 0,
+            "incorrect": 0
+          }
+        ]
+      },
+      {
+        "roundId": 1704030450,
+        "questionId": 328,
+        "questionText": "110,440,990,?",
+        "activePlayers": 1,
+        "timestamp": 1704055165186,
+        "answersCount": 1,
+        "correctCount": 1,
+        "inCorrectCount": 0,
+        "profit": -50,
+        "totalWinByPlayer": 50,
+        "amountWiseBreakup": [
+          {
+            "amount": 2,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 5,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 10,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 20,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 30,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 50,
+            "correct": 1,
+            "incorrect": 0
+          },
+          {
+            "amount": 100,
+            "correct": 0,
+            "incorrect": 0
+          }
+        ]
+      },
+      {
+        "roundId": 1704030449,
+        "questionId": 1834,
+        "questionText": "612,2448,5508,?",
+        "activePlayers": 1,
+        "timestamp": 1704055145203,
+        "answersCount": 1,
+        "correctCount": 1,
+        "inCorrectCount": 0,
+        "profit": -50,
+        "totalWinByPlayer": 50,
+        "amountWiseBreakup": [
+          {
+            "amount": 2,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 5,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 10,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 20,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 30,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 50,
+            "correct": 1,
+            "incorrect": 0
+          },
+          {
+            "amount": 100,
+            "correct": 0,
+            "incorrect": 0
+          }
+        ]
+      },
+      {
+        "roundId": 1704030448,
+        "questionId": 2882,
+        "questionText": "961,3844,8649,?",
+        "activePlayers": 1,
+        "timestamp": 1704055125174,
+        "answersCount": 1,
+        "correctCount": 0,
+        "inCorrectCount": 1,
+        "profit": 50,
+        "totalWinByPlayer": 0,
+        "amountWiseBreakup": [
+          {
+            "amount": 2,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 5,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 10,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 20,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 30,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 50,
+            "correct": 0,
+            "incorrect": 1
+          },
+          {
+            "amount": 100,
+            "correct": 0,
+            "incorrect": 0
+          }
+        ]
+      },
+      {
+        "roundId": 1704030447,
+        "questionId": 2976,
+        "questionText": "992,3968,8928,?",
+        "activePlayers": 1,
+        "timestamp": 1704055105169,
+        "answersCount": 1,
+        "correctCount": 0,
+        "inCorrectCount": 1,
+        "profit": 50,
+        "totalWinByPlayer": 0,
+        "amountWiseBreakup": [
+          {
+            "amount": 2,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 5,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 10,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 20,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 30,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 50,
+            "correct": 0,
+            "incorrect": 1
+          },
+          {
+            "amount": 100,
+            "correct": 0,
+            "incorrect": 0
+          }
+        ]
+      },
+      {
+        "roundId": 1704030446,
+        "questionId": 2615,
+        "questionText": "872,3488,7848,?",
+        "activePlayers": 1,
+        "timestamp": 1704055085161,
+        "answersCount": 1,
+        "correctCount": 0,
+        "inCorrectCount": 1,
+        "profit": 50,
+        "totalWinByPlayer": 0,
+        "amountWiseBreakup": [
+          {
+            "amount": 2,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 5,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 10,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 20,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 30,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 50,
+            "correct": 0,
+            "incorrect": 1
+          },
+          {
+            "amount": 100,
+            "correct": 0,
+            "incorrect": 0
+          }
+        ]
+      },
+      {
+        "roundId": 1704030445,
+        "questionId": 29,
+        "questionText": "10,40,90,?",
+        "activePlayers": 1,
+        "timestamp": 1704055065159,
+        "answersCount": 1,
+        "correctCount": 0,
+        "inCorrectCount": 1,
+        "profit": 50,
+        "totalWinByPlayer": 0,
+        "amountWiseBreakup": [
+          {
+            "amount": 2,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 5,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 10,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 20,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 30,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 50,
+            "correct": 0,
+            "incorrect": 1
+          },
+          {
+            "amount": 100,
+            "correct": 0,
+            "incorrect": 0
+          }
+        ]
+      },
+      {
+        "roundId": 1704030444,
+        "questionId": 2397,
+        "questionText": "799,3196,7191,?",
+        "activePlayers": 1,
+        "timestamp": 1704055045144,
+        "answersCount": 1,
+        "correctCount": 0,
+        "inCorrectCount": 1,
+        "profit": 50,
+        "totalWinByPlayer": 0,
+        "amountWiseBreakup": [
+          {
+            "amount": 2,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 5,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 10,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 20,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 30,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 50,
+            "correct": 0,
+            "incorrect": 1
+          },
+          {
+            "amount": 100,
+            "correct": 0,
+            "incorrect": 0
+          }
+        ]
+      },
+      {
+        "roundId": 1704030443,
+        "questionId": 2413,
+        "questionText": "805,3220,7245,?",
+        "activePlayers": 1,
+        "timestamp": 1704055025137,
+        "answersCount": 1,
+        "correctCount": 0,
+        "inCorrectCount": 1,
+        "profit": 50,
+        "totalWinByPlayer": 0,
+        "amountWiseBreakup": [
+          {
+            "amount": 2,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 5,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 10,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 20,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 30,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 50,
+            "correct": 0,
+            "incorrect": 1
+          },
+          {
+            "amount": 100,
+            "correct": 0,
+            "incorrect": 0
+          }
+        ]
+      },
+      {
+        "roundId": 1704030280,
+        "questionId": 775,
+        "questionText": "259,1036,2331,?",
+        "activePlayers": 1,
+        "timestamp": 1704051763518,
+        "answersCount": 1,
+        "correctCount": 0,
+        "inCorrectCount": 1,
+        "profit": 20,
+        "totalWinByPlayer": 0,
+        "amountWiseBreakup": [
+          {
+            "amount": 2,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 5,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 10,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 20,
+            "correct": 0,
+            "incorrect": 1
+          },
+          {
+            "amount": 30,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 50,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 100,
+            "correct": 0,
+            "incorrect": 0
+          }
+        ]
+      },
+      {
+        "roundId": 1704030279,
+        "questionId": 1188,
+        "questionText": "396,1584,3564,?",
+        "activePlayers": 1,
+        "timestamp": 1704051743508,
+        "answersCount": 1,
+        "correctCount": 1,
+        "inCorrectCount": 0,
+        "profit": -20,
+        "totalWinByPlayer": 20,
+        "amountWiseBreakup": [
+          {
+            "amount": 2,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 5,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 10,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 20,
+            "correct": 1,
+            "incorrect": 0
+          },
+          {
+            "amount": 30,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 50,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 100,
+            "correct": 0,
+            "incorrect": 0
+          }
+        ]
+      },
+      {
+        "roundId": 1704030278,
+        "questionId": 468,
+        "questionText": "156,624,1404,?",
+        "activePlayers": 1,
+        "timestamp": 1704051723501,
+        "answersCount": 1,
+        "correctCount": 1,
+        "inCorrectCount": 0,
+        "profit": -20,
+        "totalWinByPlayer": 20,
+        "amountWiseBreakup": [
+          {
+            "amount": 2,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 5,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 10,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 20,
+            "correct": 1,
+            "incorrect": 0
+          },
+          {
+            "amount": 30,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 50,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 100,
+            "correct": 0,
+            "incorrect": 0
+          }
+        ]
+      },
+      {
+        "roundId": 1704030277,
+        "questionId": 2044,
+        "questionText": "682,2728,6138,?",
+        "activePlayers": 1,
+        "timestamp": 1704051703495,
+        "answersCount": 1,
+        "correctCount": 1,
+        "inCorrectCount": 0,
+        "profit": -20,
+        "totalWinByPlayer": 20,
+        "amountWiseBreakup": [
+          {
+            "amount": 2,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 5,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 10,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 20,
+            "correct": 1,
+            "incorrect": 0
+          },
+          {
+            "amount": 30,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 50,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 100,
+            "correct": 0,
+            "incorrect": 0
+          }
+        ]
+      },
+      {
+        "roundId": 1704030274,
+        "questionId": 2940,
+        "questionText": "980,3920,8820,?",
+        "activePlayers": 1,
+        "timestamp": 1704051643478,
+        "answersCount": 0,
+        "correctCount": 0,
+        "inCorrectCount": 0,
+        "profit": 0,
+        "totalWinByPlayer": 0,
+        "amountWiseBreakup": [
+          {
+            "amount": 2,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 5,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 10,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 20,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 30,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 50,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 100,
+            "correct": 0,
+            "incorrect": 0
+          }
+        ]
+      },
+      {
+        "roundId": 1704030247,
+        "questionId": 1807,
+        "questionText": "603,2412,5427,?",
+        "activePlayers": 1,
+        "timestamp": 1704051103183,
+        "answersCount": 0,
+        "correctCount": 0,
+        "inCorrectCount": 0,
+        "profit": 0,
+        "totalWinByPlayer": 0,
+        "amountWiseBreakup": [
+          {
+            "amount": 2,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 5,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 10,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 20,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 30,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 50,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 100,
+            "correct": 0,
+            "incorrect": 0
+          }
+        ]
+      },
+      {
+        "roundId": 1704030246,
+        "questionId": 1901,
+        "questionText": "634,2536,5706,?",
+        "activePlayers": 1,
+        "timestamp": 1704051083184,
+        "answersCount": 0,
+        "correctCount": 0,
+        "inCorrectCount": 0,
+        "profit": 0,
+        "totalWinByPlayer": 0,
+        "amountWiseBreakup": [
+          {
+            "amount": 2,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 5,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 10,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 20,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 30,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 50,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 100,
+            "correct": 0,
+            "incorrect": 0
+          }
+        ]
+      },
+      {
+        "roundId": 1704030245,
+        "questionId": 1559,
+        "questionText": "520,2080,4680,?",
+        "activePlayers": 1,
+        "timestamp": 1704051063171,
+        "answersCount": 0,
+        "correctCount": 0,
+        "inCorrectCount": 0,
+        "profit": 0,
+        "totalWinByPlayer": 0,
+        "amountWiseBreakup": [
+          {
+            "amount": 2,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 5,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 10,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 20,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 30,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 50,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 100,
+            "correct": 0,
+            "incorrect": 0
+          }
+        ]
+      },
+      {
+        "roundId": 1704030244,
+        "questionId": 669,
+        "questionText": "223,892,2007,?",
+        "activePlayers": 1,
+        "timestamp": 1704051043171,
+        "answersCount": 1,
+        "correctCount": 0,
+        "inCorrectCount": 1,
+        "profit": 30,
+        "totalWinByPlayer": 0,
+        "amountWiseBreakup": [
+          {
+            "amount": 2,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 5,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 10,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 20,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 30,
+            "correct": 0,
+            "incorrect": 1
+          },
+          {
+            "amount": 50,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 100,
+            "correct": 0,
+            "incorrect": 0
+          }
+        ]
+      },
+      {
+        "roundId": 1704030243,
+        "questionId": 2347,
+        "questionText": "783,3132,7047,?",
+        "activePlayers": 1,
+        "timestamp": 1704051023155,
+        "answersCount": 0,
+        "correctCount": 0,
+        "inCorrectCount": 0,
+        "profit": 0,
+        "totalWinByPlayer": 0,
+        "amountWiseBreakup": [
+          {
+            "amount": 2,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 5,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 10,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 20,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 30,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 50,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 100,
+            "correct": 0,
+            "incorrect": 0
+          }
+        ]
+      },
+      {
+        "roundId": 1704030242,
+        "questionId": 1170,
+        "questionText": "390,1560,3510,?",
+        "activePlayers": 1,
+        "timestamp": 1704051003137,
+        "answersCount": 0,
+        "correctCount": 0,
+        "inCorrectCount": 0,
+        "profit": 0,
+        "totalWinByPlayer": 0,
+        "amountWiseBreakup": [
+          {
+            "amount": 2,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 5,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 10,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 20,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 30,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 50,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 100,
+            "correct": 0,
+            "incorrect": 0
+          }
+        ]
+      },
+      {
+        "roundId": 1704030241,
+        "questionId": 1594,
+        "questionText": "532,2128,4788,?",
+        "activePlayers": 1,
+        "timestamp": 1704050983138,
+        "answersCount": 0,
+        "correctCount": 0,
+        "inCorrectCount": 0,
+        "profit": 0,
+        "totalWinByPlayer": 0,
+        "amountWiseBreakup": [
+          {
+            "amount": 2,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 5,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 10,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 20,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 30,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 50,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 100,
+            "correct": 0,
+            "incorrect": 0
+          }
+        ]
+      },
+      {
+        "roundId": 1704030240,
+        "questionId": 1992,
+        "questionText": "664,2656,5976,?",
+        "activePlayers": 1,
+        "timestamp": 1704050963137,
+        "answersCount": 0,
+        "correctCount": 0,
+        "inCorrectCount": 0,
+        "profit": 0,
+        "totalWinByPlayer": 0,
+        "amountWiseBreakup": [
+          {
+            "amount": 2,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 5,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 10,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 20,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 30,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 50,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 100,
+            "correct": 0,
+            "incorrect": 0
+          }
+        ]
+      },
+      {
+        "roundId": 1704030239,
+        "questionId": 586,
+        "questionText": "196,784,1764,?",
+        "activePlayers": 1,
+        "timestamp": 1704050943117,
+        "answersCount": 0,
+        "correctCount": 0,
+        "inCorrectCount": 0,
+        "profit": 0,
+        "totalWinByPlayer": 0,
+        "amountWiseBreakup": [
+          {
+            "amount": 2,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 5,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 10,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 20,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 30,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 50,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 100,
+            "correct": 0,
+            "incorrect": 0
+          }
+        ]
+      },
+      {
+        "roundId": 1704030238,
+        "questionId": 2446,
+        "questionText": "816,3264,7344,?",
+        "activePlayers": 1,
+        "timestamp": 1704050923118,
+        "answersCount": 1,
+        "correctCount": 1,
+        "inCorrectCount": 0,
+        "profit": -30,
+        "totalWinByPlayer": 30,
+        "amountWiseBreakup": [
+          {
+            "amount": 2,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 5,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 10,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 20,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 30,
+            "correct": 1,
+            "incorrect": 0
+          },
+          {
+            "amount": 50,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 100,
+            "correct": 0,
+            "incorrect": 0
+          }
+        ]
+      },
+      {
+        "roundId": 1704030237,
+        "questionId": 2620,
+        "questionText": "874,3496,7866,?",
+        "activePlayers": 1,
+        "timestamp": 1704050903103,
+        "answersCount": 1,
+        "correctCount": 0,
+        "inCorrectCount": 1,
+        "profit": 30,
+        "totalWinByPlayer": 0,
+        "amountWiseBreakup": [
+          {
+            "amount": 2,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 5,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 10,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 20,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 30,
+            "correct": 0,
+            "incorrect": 1
+          },
+          {
+            "amount": 50,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 100,
+            "correct": 0,
+            "incorrect": 0
+          }
+        ]
+      },
+      {
+        "roundId": 1704030236,
+        "questionId": 2190,
+        "questionText": "730,2920,6570,?",
+        "activePlayers": 1,
+        "timestamp": 1704050883089,
+        "answersCount": 1,
+        "correctCount": 1,
+        "inCorrectCount": 0,
+        "profit": -30,
+        "totalWinByPlayer": 30,
+        "amountWiseBreakup": [
+          {
+            "amount": 2,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 5,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 10,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 20,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 30,
+            "correct": 1,
+            "incorrect": 0
+          },
+          {
+            "amount": 50,
+            "correct": 0,
+            "incorrect": 0
+          },
+          {
+            "amount": 100,
+            "correct": 0,
+            "incorrect": 0
+          }
+        ]
+      }
+    ]
+  }
